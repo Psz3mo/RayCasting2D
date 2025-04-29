@@ -12,7 +12,7 @@ RayCasting2D to demonstracyjny projekt symulujący pole widzenia gracza w środo
 
 ## Widok działania
 
-![Zrzut ekranu z aplikacji](images/image.png)
+![Zrzut ekranu z aplikacji](image.png)
 
 ## Wymagania
 
